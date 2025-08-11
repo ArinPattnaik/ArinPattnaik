@@ -1,12 +1,15 @@
-<!-- HEADER -->
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=👋+WELCOME+TO+MY+GITHUB!;I'M+ARIN+PATTNAIK+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+
+<div align="center">
+
+<h1 align="center">👋 WELCOME TO MY GITHUB!</h1>
+
+<h2 align="center"><b>ARIN PATTNAIK</b></h2>
 
 <p align="center">
-	<b><font size="7">ARIN PATTNAIK</font></b> <br>
-	<img src="https://raw.githubusercontent.com/ArinPattnaik/ArinPattnaik/main/assets/divider.svg" width="80%" />
+<strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong>
 </p>
+
+</div>
 
 ---
 
