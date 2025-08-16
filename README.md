@@ -1,14 +1,27 @@
 
 <div align="center">
 
-# 🌟 Welcome to My Digital Universe! 🌟
+# ⚡ Welcome to My Digital Universe! ⚡
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **Hi there, I'm ARIN PATTNAIK** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="40px"/> **Hi there, I'm ARIN PA<!-- FUN FACT / QUOTE -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xUA7aM09ByyR1w5YWc/giphy.gif" width="40px">&nbsp;***Thanks for visiting my profile!***&nbsp;<img src="https://media.giphy.com/media/xUA7aM09ByyR1w5YWc/giphy.gif" width="40px">
+</div>
 
-<img src="https://media.tenor.com/NBNeEoTlmJ0AAAAj/nami-twerk-one-piece-twerk.gif" width="100%" height="150">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=Code+is+like+humor.+When+you+explain+it%2C+it's+bad.;The+best+error+message+is+the+one+that+never+shows+up.;Programming+is+thinking%2C+not+typing.;Design+is+not+just+what+it+looks+like.+Design+is+how+it+works." alt="Dynamic Quotes" />
+</div>
+
+<div align="center">
+  
+  ### Show some ❤️ by starring some of the repositories!
+  
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80px">src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="40px"/>
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="180">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Problem+Solver;Graphic+Designer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,22 +30,22 @@
 
 <!-- BIO -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" height="300"/>
   
-  ### 🚀 Full Stack Developer | 🎨 Creative Designer | 🧠 Lifelong Learner
+  ### ⚡ Full Stack Developer | 🎨 Creative Designer | 🧠 Lifelong Learner
   
   *Building innovative solutions and turning ideas into reality* <br>
-  **Code → Create → Caffeinate → Repeat** ☕ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  **Code → Create → Caffeinate → Repeat** ☕ <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60">
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <!-- ABOUT ME -->
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About Me </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="50"><b> About Me </b><img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="50">
 </div>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="300">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" align="right" width="350">
 
 ### 👨‍💻 Who am I?
 - 💻 **Developer** passionate about creating impactful digital experiences
@@ -40,11 +53,11 @@
 - 🌟 **Tech Enthusiast** always exploring the latest technologies
 
 ### 🛠️ Skills & Technologies
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Programming Languages:**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Programming Languages:**
 - 🐍 Python | ⚛️ React | ☕ Java
 - 🌐 HTML/CSS/JS | 🖥️ Node.js | 📱 React Native
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> **Tools & Platforms:**
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> **Tools & Platforms:**
 - 🐘 PostgreSQL | 🐳 Docker | ☁️ AWS
 - 🧪 Git & GitHub | 🔧 VS Code | 🚀 Vercel
 
@@ -59,12 +72,12 @@
 
 <!-- TECH STACK -->
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"><b> Tech Stack </b><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"><b> Tech Stack </b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 </div>
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60">
   
   <br><br>
   
@@ -93,11 +106,11 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="50"><b> GitHub Analytics </b><img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="50">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </div>
 
 <p align="center">
@@ -117,11 +130,11 @@
 
 <!-- PROJECTS -->
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Featured Projects </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="50"><b> Featured Projects </b><img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="50">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="600">
 </div>
 
 <div align="center">
@@ -138,11 +151,11 @@
 
 <!-- CONNECT WITH ME -->
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><b> Let's Connect and Create Something Amazing Together! </b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50"><b> Let's Connect and Create Something Amazing Together! </b><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MIGbtLZksKBO8/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
   
   <br><br>
   
