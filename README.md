@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **Hi there, I'm ARIN PATTNAIK** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="150">
+<img src="https://media.tenor.com/NBNeEoTlmJ0AAAAj/nami-twerk-one-piece-twerk.gif" width="100%" height="150">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
