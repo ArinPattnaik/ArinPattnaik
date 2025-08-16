@@ -169,7 +169,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%22Code+is+like+humor.+When+you+explain+it%2C+it's+bad.%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22;%22Programming+is+thinking%2C+not+typing.%22" alt="Dynamic Quotes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=F75C7E&center=true&vCenter=true&width=800&lines=Code+is+like+humor.+When+you+explain+it%2C+it's+bad.;The+best+error+message+is+the+one+that+never+shows+up.;Programming+is+thinking%2C+not+typing.;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Dynamic Quotes" />
 </div>
 
 <div align="center">
