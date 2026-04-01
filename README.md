@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Data Analytics Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38b7.gif" width="100%" height="300" alt="Data Analytics Banner"/>
+<h1>Arin Pattnaik</h1>
+<p><em>21 years old | Data Analyst</em></p>
+
+<!-- Data Analytics Banner with Charts Theme -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="300" alt="Data Analytics Banner"/>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -155,7 +158,7 @@
 
 <div align="center">
 
-### 💡 "Data is the new oil, but only if you know how to refine it." - Unknown
+### 💡 "Don't Be Sorry, Be Better"
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+analyze+some+data+together!" alt="Thanks" />
 
