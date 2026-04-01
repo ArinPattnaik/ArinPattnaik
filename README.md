@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=Arin%20Pattnaik&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- Data Analytics Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38b7.gif" width="100%" height="300" alt="Data Analytics Banner"/>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Designer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;Business+Intelligence+Specialist;Analytics+Enthusiast" alt="Typing Animation" />
 </p>
 
 <!-- Separator -->
@@ -19,39 +19,87 @@
 
 <div align="center">
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Data Analysis" width="300" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38b7.gif">
 
 <p align="left">
-  💻 **Full Stack Developer** passionate about creating impactful digital experiences<br>
-  🎨 **Graphic Designer** with an eye for beautiful and functional interfaces<br>
-  🌟 **Tech Enthusiast** always exploring the latest technologies<br>
-  📚 **Lifelong Learner** committed to continuous growth and improvement<br>
-  🔭 Currently building scalable web applications and diving into AI/ML<br>
-  👯 Open to collaborating on open source projects<br>
+  📊 **Data Analyst** passionate about turning data into actionable insights<br>
+  🔍 **Data Visualization Expert** creating compelling dashboards and reports<br>
+  🧹 **Data Cleaning Specialist** ensuring data quality and integrity<br>
+  📈 **Analytics Professional** with expertise in statistical analysis and modeling<br>
+  🌟 **Problem Solver** using data-driven approaches to business challenges<br>
+  📚 **Continuous Learner** staying updated with latest analytics tools and techniques<br>
+  🔭 Currently exploring advanced analytics, machine learning, and AI applications<br>
+  👯 Open to collaborating on data projects and open source analytics<br>
 </p>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <div align="center">
 
-### Languages & Frameworks
+### Programming & Data Analysis
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,html,css,react,nextjs,vue,nodejs,express,django,flask,spring" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### Databases & Cloud
+### Visualization & BI Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,aws,gcp,docker,kubernetes,vercel,netlify" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,blender,postman,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
+</div>
+
+---
+
+## 📊 Tools & Technologies
+
+<div align="center">
+
+| Category | Tools |
+|----------|-------|
+| **Programming Languages** | Python, SQL, R |
+| **Data Manipulation** | Pandas, NumPy, SQL |
+| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn, Plotly |
+| **Spreadsheets** | Microsoft Excel, Google Sheets |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Cloud Platforms** | AWS, Google Cloud, Azure |
+| **Development Tools** | Jupyter Notebook, VS Code, Git, GitHub |
+| **Statistical Analysis** | SPSS, SAS, R Studio |
+
+</div>
+
+---
+
+## 📈 Data Projects
+
+<div align="center">
+
+| 🌟 **Project** | 📝 **Description** | 💻 **Tech Stack** | 🔗 **Link** |
+|---|---|---|---|
+| **Sales Analytics Dashboard** | Comprehensive sales performance analysis with interactive visualizations | Python, Pandas, Tableau, PostgreSQL | [View →](https://github.com/ArinPattnaik/SalesAnalytics) |
+| **Customer Segmentation** | RFM analysis and clustering for customer behavior insights | Python, Scikit-learn, Power BI | [View →](https://github.com/ArinPattnaik/CustomerSegmentation) |
+| **Predictive Modeling** | Time series forecasting for business metrics | Python, Statsmodels, Jupyter | [View →](https://github.com/ArinPattnaik/PredictiveModeling) |
+| **Data Cleaning Pipeline** | Automated ETL pipeline for data preprocessing | Python, Pandas, SQL | [View →](https://github.com/ArinPattnaik/DataPipeline) |
 
 </div>
 
@@ -76,20 +124,6 @@
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArinPattnaik&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&area_color=0D1117&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| 🌟 **Project** | 📝 **Description** | 💻 **Tech Stack** | 🔗 **Link** |
-|---|---|---|---|
-| **Portfolio Hub** | Interactive portfolio with modern design | React, Node.js, MongoDB | [View →](https://github.com/ArinPattnaik/Project1) |
-| **Data Vizard** | Real-time analytics dashboard | Python, D3.js, PostgreSQL | [View →](https://github.com/ArinPattnaik/Project2) |
-| **Smart Automation** | AI-powered productivity suite | Python, TensorFlow, AWS | [View →](https://github.com/ArinPattnaik/Project3) |
 
 </div>
 
@@ -121,9 +155,9 @@
 
 <div align="center">
 
-### 💡 "Design is not just what it looks like. Design is how it works." - Steve Jobs
+### 💡 "Data is the new oil, but only if you know how to refine it." - Unknown
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Thanks" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+analyze+some+data+together!" alt="Thanks" />
 
 <br>
 
