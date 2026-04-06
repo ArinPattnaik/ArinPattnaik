@@ -148,7 +148,7 @@
 <a href="https://github.com/ArinPattnaik" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://arinpattnaik.com" target="_blank">
+<a href="https://www.arinpattnaik.me/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
 </a>
 
