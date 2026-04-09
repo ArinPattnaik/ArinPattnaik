@@ -102,7 +102,7 @@
 
 | 🌟 **Project** | 📝 **Description** | 💻 **Tech Stack** | 🔗 **Link** |
 |---|---|---|---|
-| **Sales Analytics Dashboard** | Comprehensive sales performance analysis with interactive visualizations | Python, Pandas, Tableau, PostgreSQL | [View →](https://github.com/ArinPattnaik/SalesAnalytics) |
+| **E-Commerce Sales Analysis** | Universal analytics platform with auto-generated insights and interactive dashboards | Python, Pandas, Streamlit, Plotly | [View Demo →](https://ecommerce-sales-analysis-arin.streamlit.app/) |
 | **Customer Segmentation** | RFM analysis and clustering for customer behavior insights | Python, Scikit-learn, Power BI | [View →](https://github.com/ArinPattnaik/CustomerSegmentation) |
 | **Predictive Modeling** | Time series forecasting for business metrics | Python, Statsmodels, Jupyter | [View →](https://github.com/ArinPattnaik/PredictiveModeling) |
 | **Data Cleaning Pipeline** | Automated ETL pipeline for data preprocessing | Python, Pandas, SQL | [View →](https://github.com/ArinPattnaik/DataPipeline) |
