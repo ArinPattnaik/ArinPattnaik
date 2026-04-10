@@ -102,8 +102,8 @@
 
 | 🌟 **Project** | 📝 **Description** | 💻 **Tech Stack** | 🔗 **Link** |
 |---|---|---|---|
-| **E-Commerce Sales Analysis** | Universal analytics platform with auto-generated insights and interactive dashboards | Python, Pandas, Streamlit, Plotly | [View Demo →](https://ecommerce-sales-analysis-arin.streamlit.app/) |
-| **Customer Segmentation** | RFM analysis and clustering for customer behavior insights | Python, Scikit-learn, Power BI | [View →](https://github.com/ArinPattnaik/CustomerSegmentation) |
+| **E-Commerce Sales Analysis** | Universal analytics platform with auto-generated insights and interactive dashboards | Python, Pandas, Streamlit, Plotly | [View →](https://ecommerce-sales-analysis-arin.streamlit.app/) |
+| **Global Job Market Intelligence** | RFM analysis and clustering for job behavior insights | Python, Scikit-learn, Power BI | [View →]https://global-job-market-intelligence-platform-arin.streamlit.app/ |
 | **Predictive Modeling** | Time series forecasting for business metrics | Python, Statsmodels, Jupyter | [View →](https://github.com/ArinPattnaik/PredictiveModeling) |
 | **Data Cleaning Pipeline** | Automated ETL pipeline for data preprocessing | Python, Pandas, SQL | [View →](https://github.com/ArinPattnaik/DataPipeline) |
 
