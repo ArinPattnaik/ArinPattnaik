@@ -141,7 +141,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ArinPattnaik&color=6366f1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ArinPattnaik&color=6366f1&style=flat-square&label=Profile+Views&base=3122)
 
 </div>
 
