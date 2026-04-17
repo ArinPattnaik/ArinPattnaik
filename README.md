@@ -105,7 +105,7 @@
 | **E-Commerce Sales Analysis** | Universal analytics platform with auto-generated insights and interactive dashboards | Python, Pandas, Streamlit, Plotly | [View →](https://ecommerce-sales-analysis-arin.streamlit.app/) |
 | **Global Job Market Intelligence** | RFM analysis and clustering for job behavior insights | Python, Scikit-learn, Power BI | [View →](https://global-job-market-intelligence-platform-arin.streamlit.app/) |
 | **VÉRA** | Visual Evidence Retrieval and Analysis platform | React, Next.js, Tailwind CSS | [View →](https://vera.arinpattnaik.me/) |
-| **Data Cleaning Pipeline** | Automated ETL pipeline for data preprocessing | Python, Pandas, SQL | [View →](https://github.com/ArinPattnaik/DataPipeline) |
+| **PurePlate** | AI-driven food transparency platform analyzing ingredients, INS codes, and hidden nutrition facts | Next.js, PostgreSQL, Gemini AI | [View →](https://pureplate.arinpattnaik.me/) |
 
 </div>
 
