@@ -25,78 +25,14 @@
 <img align="right" alt="Data Analysis" width="300" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38b7.gif">
 
 <p align="left">
-  📊 **Data Analyst** passionate about turning data into actionable insights<br>
-  🔍 **Data Visualization Expert** creating compelling dashboards and reports<br>
-  🧹 **Data Cleaning Specialist** ensuring data quality and integrity<br>
-  📈 **Analytics Professional** with expertise in statistical analysis and modeling<br>
-  🌟 **Problem Solver** using data-driven approaches to business challenges<br>
-  📚 **Continuous Learner** staying updated with latest analytics tools and techniques<br>
-  🔭 Currently exploring advanced analytics, machine learning, and AI applications<br>
-  👯 Open to collaborating on data projects and open source analytics<br>
+  I'm a Data Analyst who loves turning raw data into meaningful insights. I work with dashboards, statistical models, and data pipelines to help solve real business problems. Currently exploring machine learning and AI applications. Always open to collaborating on data projects and open source analytics.
 </p>
 
 </div>
 
 ---
 
-## 🛠️ Skills
-
-<div align="center">
-
-### Programming & Data Analysis
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### Visualization & BI Tools
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 📊 Tools & Technologies
-
-<div align="center">
-
-| Category | Tools |
-|----------|-------|
-| **Programming Languages** | Python, SQL, R |
-| **Data Manipulation** | Pandas, NumPy, SQL |
-| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn, Plotly |
-| **Spreadsheets** | Microsoft Excel, Google Sheets |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Cloud Platforms** | AWS, Google Cloud, Azure |
-| **Development Tools** | Jupyter Notebook, VS Code, Git, GitHub |
-| **Statistical Analysis** | SPSS, SAS, R Studio |
-
-</div>
-
----
-
-## 📈 Data Projects
+## � Data Projects
 
 <div align="center">
 
@@ -111,6 +47,15 @@
 
 ---
 
+## 🛠️ Skills
+
+<div align="center">
+
+`Python` `SQL` `R` `Pandas` `NumPy` `Tableau` `Power BI` `Excel` `Matplotlib` `Seaborn` `Plotly` `PostgreSQL` `MySQL` `MongoDB` `AWS` `Jupyter` `Git` `Streamlit` `Scikit-learn`
+
+</div>
+
+---
 
 ## 📫 Connect With Me
 
@@ -146,4 +91,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&text=&fontSize=0"/>
-
