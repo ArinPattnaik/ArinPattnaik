@@ -82,10 +82,6 @@
 
 ### 💡 "Don't Be Sorry, Be Better"
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+analyze+some+data+together!" alt="Thanks" />
-
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ArinPattnaik&color=6366f1&style=flat-square&label=Profile+Views&base=3122)
 
 </div>
