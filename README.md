@@ -38,6 +38,7 @@
 
 | 🌟 **Project** | 📝 **Description** | 💻 **Tech Stack** | 🔗 **Link** |
 |---|---|---|---|
+| **ChurnGuard** | ML-powered customer churn prediction platform with SHAP explanations and revenue impact analysis | Python, Flask, XGBoost, SHAP | [View →](https://churnguard.arinpattnaik.me/) |
 | **E-Commerce Sales Analysis** | Universal analytics platform with auto-generated insights and interactive dashboards | Python, Pandas, Streamlit, Plotly | [View →](https://ecommerce-sales-analysis-arin.streamlit.app/) |
 | **Global Job Market Intelligence** | RFM analysis and clustering for job behavior insights | Python, Scikit-learn, Power BI | [View →](https://global-job-market-intelligence-platform-arin.streamlit.app/) |
 | **VÉRA** | Visual Evidence Retrieval and Analysis platform | React, Next.js, Tailwind CSS | [View →](https://vera.arinpattnaik.me/) |
@@ -51,7 +52,7 @@
 
 <div align="center">
 
-`Python` `SQL` `R` `Pandas` `NumPy` `Tableau` `Power BI` `Excel` `Matplotlib` `Seaborn` `Plotly` `PostgreSQL` `MySQL` `MongoDB` `AWS` `Jupyter` `Git` `Streamlit` `Scikit-learn`
+`Python` `SQL` `R` `Pandas` `NumPy` `Tableau` `Power BI` `Excel` `Matplotlib` `Seaborn` `Plotly` `PostgreSQL` `MySQL` `MongoDB` `AWS` `Jupyter` `Git` `Streamlit` `Scikit-learn` `Flask` `XGBoost` `Docker`
 
 </div>
 
